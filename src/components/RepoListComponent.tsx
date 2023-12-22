@@ -10,7 +10,7 @@ const RepoListComponent = () => {
   const [loading, setLoading] = useState(false);
   const [pageCount, setPageCount] = useState<number>(0);
   const [visibleFlags, setVisibleFlags] = useState(
-    JSON.parse(window.localStorage.getItem("visibleFlags") ?? "")
+    JSON.parse(window.localStorage.getItem("visibleFlags") ?? "{}")
   );
 
   const getRepos = async () => {
