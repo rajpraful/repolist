@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Flexera UI Candidate Technical Code Example by Praful Raj
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,18 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 After cloning the repo, please run `npm i` and `npm start` to start the dev server.
 
-# I have not used any code generators for this test, every page is written by me from 0 tp 10
+## I have not used any code generators for this test
 
-# I went with React, typescript as suggested
+## I went with React, typescript stack as suggested
 
 # Extras:
 
-I have added Material UI library for UI optimizaton and to use components like checkbox, Pagination etc..
+1. I have added Material UI library for UI optimizaton and to use components like checkbox, Pagination etc..
 
-I also improved the UI UX of the page
+2. I also improved the UI UX of the page
 
-# What would you have done if you had more time?
+## What would you have done if you had more time?
 
-I would have made pagination and other filters as query params and use the url to extract the data so thet even after the page refresh. same result is shown. This also helps users to share the URL which gives same result
+1. I would have made pagination and other filters as query params and use the url to extract the data so thet even after the page refresh. same result is shown. This also helps users to share the URL which gives same result
 
-I would have added search functionality to the top of the page
+2. I would have added search functionality to the top of the page
