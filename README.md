@@ -6,11 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 After cloning the repo, please run `npm i` and `npm start` to start the dev server.
 
-## I have not used any code generators for this test
+### I have not used any code generators for this test
 
-## I went with React, typescript stack as suggested
+### I went with React, typescript stack as suggested
 
-# Extras:
+## Extras:
 
 1. I have added Material UI library for UI optimizaton and to use components like checkbox, Pagination etc..
 
